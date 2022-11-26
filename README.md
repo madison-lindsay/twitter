@@ -7,3 +7,4 @@ This is the beginning of a Twitter API project, using the NLTK library and netwo
 
 To Do:
 * Create my own sensitivity analysis scores
+* Compare emoji usage accross user age groups
